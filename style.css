@@ -1,3 +1,4 @@
+ 
 body {
 
     font-size: 15pt;
@@ -38,7 +39,7 @@ body {
 
   text-align: center;
 
-  border: 3px solid;
+  border: 3px solid none;
 
   border-radius: 15px;
 
@@ -186,3 +187,32 @@ background: black;
 
 }
 
+#cl{
+
+  border: 3px solid;
+
+  border-radius: 15px;
+
+  background: black;
+
+  margin-bottom: 20px;
+
+}
+
+#cll{
+
+  text-align: center;
+
+  color: white;
+
+  
+
+}
+
+#clll{
+
+  text-align: center;
+
+  color: purple;
+
+}
